@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PhotosByMAC]]></title>
         <description><![CDATA[PhotosByMAC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photosbymac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 20:34:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 20:39:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photosbymac/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dace14c2-2205-4891-81f8-a9c8a6431c4c.JPG">]]></description>
+            <link>https://thegrid.ai/photosbymac/420af385-55b5-4ae4-9884-8a665962b865/index.html</link>
+            <guid isPermaLink="false">420af385-55b5-4ae4-9884-8a665962b865</guid>
+            <pubDate>Sat, 23 Jan 2016 20:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b49016b7-9d8b-41b2-b135-c79306fe83c7.JPG">]]></description>
-            <link>undefined79efb60e-045d-4318-84ce-cd75671e2df1/index.html</link>
+            <link>https://thegrid.ai/photosbymac/79efb60e-045d-4318-84ce-cd75671e2df1/index.html</link>
             <guid isPermaLink="false">79efb60e-045d-4318-84ce-cd75671e2df1</guid>
             <pubDate>Sat, 23 Jan 2016 20:34:39 GMT</pubDate>
         </item>
